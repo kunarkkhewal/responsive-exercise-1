@@ -63,7 +63,7 @@ ul li{
 .nav ul li{
     font-size: 20px;
     font-weight: 700;
-    padding-left: 5%;
+    padding-left: 15px;
 }
 
 .ham{
@@ -258,7 +258,7 @@ footer p{
     }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 480px) {
     .nav{
         display: none;
     }
